@@ -42,3 +42,16 @@
     display: flex;
     margin-top: 10px;
 }
+
+button{
+      width: 100px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #3B153A;
+    margin-top: 10px;
+    border: none;
+    color: white;
+}
